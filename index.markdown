@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Home
+title: United Reasoning
 ---
-# Welcome to My Website
+# Welcome to the Website of United Reasoning
 
-This is the content of my homepage.
+This page is stil under construction.
